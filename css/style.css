@@ -59,13 +59,18 @@ img {
 #workexp{
   position: absolute;
     right: 75px;
-    top: 159px;
+    top: 219px;
 }
+
 #myproject{
   position: absolute;
   right: 75px;
   top: 95px;
 }
+#donationlink{
+  position: absolute;
+  right: 75px;
+  top: 159px;
 .hobb1{
   position: relative;
   left: -506px;
